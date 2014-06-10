@@ -1,0 +1,26 @@
+ *{font-family: Tahoma, sans-serif;}
+
+#logo{position: absolute; left: 2%; top: 2%;}
+
+body{background: #341500; margin-top: 0; margin-bottom: 0;}
+
+#glowna {float: left;}
+
+a {text-decoration: none;}
+
+#menu{width: 490px; margin-left: 1%; }
+#menu  a{display: block; width: 90%; padding: 3; font-size: 25px;}
+#menu  li{list-style-type: none;}
+#menu ul{margin-left: 2%; margin-top: 70%;}
+
+#spis1 a{color: fff6d3;}
+#spis1 a:hover {color: f3790c;}
+
+#spis2{border-right:solid  fff6d3;  border-right-width: 2px; text-align: right;}
+#spis2 a{color: f3790c; margin-right: 15px;} 
+#spis2 a:hover {color: fff6d3;}
+
+
+#franek {float: left; background-image: url(gradient.jpg); background-repeat: repeat-y;}
+#franek img{margin-top: 5%;}
+

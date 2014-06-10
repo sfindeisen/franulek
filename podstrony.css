@@ -1,0 +1,60 @@
+#lista{font-family: Tahoma, sans-serif;}
+
+#logomale{position: absolute; left: 2%; top: 4%;}
+
+body{background: #341500;}
+
+a {text-decoration: none;}
+
+h1{font-family: Tahoma, sans-serif; color: fff6d3; font-size: 35px; 
+text-align: center; margin-right: 5%; margin-bottom: 4%;}
+
+a img{border: 0;}
+
+p{margin-right: 5%; color: fff6d3;}
+
+#lista{float: left; display: block;}
+#lista  li{width: 35%; padding: 5; font-size: 21px; 
+	border-right:solid  fff6d3;  border-right-width: 2px; text-align: right;}
+#lista a{color: f3790c;}
+#lista  li{list-style-type: none;}
+#lista ul{margin-left: 2%; margin-top: 47%;}
+#lista a:hover {color: fff6d3;}
+
+
+	
+#text{float: left; margin-top: 10%; width: 64%;}
+#text{font-family: Verdana, sans-serif; font-size: 16px;}
+#text a{color: fff6d3;}
+#text a:hover {color: f3790c;}
+
+h2{font-family: Tahoma, sans-serif; color: f3790c; font-size: 17px;
+text-align: right; margin-right: 5%; margin-top: 5%; }
+
+
+
+#menu-male{font-family: Tahoma, sans-serif;}
+#menu-male{float: left; display: block;}
+#menu-male a{width: 35%; padding: 5; font-size: 22px; color: fff6d3; 
+	border-right:solid  f3790c;  border-right-width: 2px; text-align: right;}
+#menu-male li{list-style-type: none;}
+#menu-male ul{margin-left: 2%; margin-top: 50%;}
+#menu-male a:hover {color: f3790c;}
+
+h3{font-family: Tahoma, sans-serif; color: f3790c; font-size: 35px; 
+text-align: center; margin-right: 5%;}
+
+h4{font-family: Verdana, sans-serif; color: fff6d3; font-size: 18px; 
+text-align: left; margin-top: 5%; }
+
+#spisik {font-family: Verdana, sans-serif; color: fff6d3; font-size: 16px; 
+text-align: left; font-weight: bold;}
+
+#kwiatki{font-family: Verdana, sans-serif; color: fff6d3; margin-right: 5%; margin-top: 15%;
+margin-left: 10%; font-size: 16px;}
+
+#text img{float: left; margin-right: 3%; margin-bottom: 2%;}
+
+.guziczek{cursor: hand; font-weight: bold; color: f3790c;}
+
+#guzik {cursor: hand;}
